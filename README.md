@@ -1,4 +1,4 @@
-*English below*
+*👉 English below*
 
 # Bonjour 👋 Je suis Abdul Hadi — Passionné de données basé en France 🇫🇷
 
