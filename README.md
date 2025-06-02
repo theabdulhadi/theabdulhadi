@@ -1,4 +1,4 @@
-# Hello World!, I'm Abdul Hadi, an aspiring Data Analyst  👋🏼:
+# Bonjoue! I'm Abdul Hadi, an aspiring Data Analyst  👋🏼:
 🛜 Looking for a data analyst roles <br>👨🏼‍🎓 studying MSc Data Analytics from Kedge BS, Bordeaux Campus <br>👨🏼‍💻 Worked as Business Analyst for 3+ years before <br>🎬 
 
 
