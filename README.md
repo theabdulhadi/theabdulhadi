@@ -9,7 +9,7 @@ I'm a Machine Learning & Data Analytics enthusiast with a business background, s
 - **Education** 🎓: MSc in Data Analytics for Business | BSc in Management and Technology
 - **Experience** 💼: Worked as a Business Analyst for over 3 years
 - &, **Current Pursuit** 📚: Studying MSc Data Analytics at Kedge BS, Bordeaux Campus
-- **Goal** 🔍: Looking for data analyst roles
+- **Goal** 🔍: Looking for data analyst or any similar roles (Internship for now — CDI / CDD for later)
 
 ## Skills & Technologies 🛠️
 
