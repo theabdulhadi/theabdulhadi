@@ -1,117 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>German Esteban Barbosa</title>
-    <style>
-        body {
-            font-family: 'Helvetica', sans-serif;
-            background-color: #0a0e14;
-            color: #d3dce6;
-            margin: 0;
-            padding: 20px;
-        }
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-            text-align: center;
-        }
-        h1 {
-            color: #f5a623;
-            font-size: 2.5em;
-            margin-bottom: 10px;
-        }
-        h2 {
-            color: #a3bffa;
-            margin-top: 30px;
-            font-size: 1.5em;
-        }
-        .intro {
-            background: #1c2526;
-            padding: 20px;
-            border-radius: 10px;
-            margin-bottom: 20px;
-            transition: transform 0.3s ease;
-        }
-        .intro:hover {
-            transform: scale(1.02);
-        }
-        .grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-        }
-        .card {
-            background: #1c2526;
-            padding: 15px;
-            border-radius: 10px;
-            transition: box-shadow 0.3s ease;
-        }
-        .card:hover {
-            box-shadow: 0 0 15px rgba(245, 166, 35, 0.3);
-        }
-        ul {
-            list-style-type: none;
-            padding-left: 0;
-            text-align: left;
-        }
-        ul li:before {
-            content: "⚡";
-            padding-right: 10px;
-            color: #f5a623;
-        }
-        a {
-            color: #a3bffa;
-            text-decoration: none;
-        }
-        a:hover {
-            color: #f5a623;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="intro">
-            <h1>Hi there, I'm German Esteban Barbosa 👋</h1>
-            <p>Passionate about leveraging data-driven insights to drive business growth and efficiency. 😊</p>
-        </div>
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-        <div class="grid">
-            <div class="card">
-                <h2>About Me</h2>
-                <p>I'm a Machine Learning & Data Analytics enthusiast with a background in business and a strong focus on AI-driven solutions. I specialize in leveraging data to optimize processes and drive insights.</p>
-                <ul>
-                    <li>MSc in Data Analytics for Business | BSc in Business Management</li>
-                    <li>Interested in Fintech, AI-driven process optimization, and data governance</li>
-                </ul>
-            </div>
+# Hello World!, I'm Abdul Hadi, an aspiring Data Analyst  👋🏼:
+🛜 Looking for a data analyst roles <br>👨🏼‍🎓 studying MSc Data Analytics from Kedge BS, Bordeaux Campus <br>👨🏼‍💻 Worked as Business Analyst for 3+ years before <br>🎬 
 
-            <div class="card">
-                <h2>Skills & Technologies</h2>
-                <ul>
-                    <li>Programming: Python (Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch), SQL, R</li>
-                    <li>Machine Learning: Supervised & Unsupervised Learning, Time Series, NLP, Computer Vision</li>
-                    <li>Tools & Frameworks: Jupyter, Google Cloud, AWS, Microsoft Azure, Git</li>
-                    <li>Other: Agile (Scrum), Business Intelligence (Tableau, Power BI)</li>
-                </ul>
-            </div>
 
-            <div class="card">
-                <h2>Featured Projects</h2>
-                <div><strong>L'Oreal Description Labeling</strong> - Prompt engineering using LLMs to label product descriptions into given categories (L'Oreal study case)</div>
-                <div><strong>Spotify Playlist</strong> - Restoring top of the year playlist for users.</div>
-            </div>
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-            <div class="card">
-                <h2>Connect with Me</h2>
-                <ul>
-                    <li><a href="https://www.linkedin.com/in/germanebarbosa" target="_blank">LinkedIn: Germanebarbosa</a></li>
-                    <li><a href="https://github.com/Germanebarbosa" target="_blank">GitHub: Germanebarbosa</a></li>
-                    <li>Email: <a href="mailto:german.ebarbosa@hotmail.com">german.ebarbosa@hotmail.com</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</body>
-</html>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
