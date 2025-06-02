@@ -21,8 +21,9 @@ Je suis un passionné de l'apprentissage automatique et de l'analyse de données
 
 ## Projets futurs 🚀
 
-- Présenter davantage de projets mettant en valeur mes compétences en analyse de données et en IA.
-<br>
+- Présenter davantage de projets mettant en valeur mes compétences en analyse de données et en IA.</br>
+
+
 *-------------------------------------------------------- English -------------------------------------------------------------*
 # Hi 👋 I'm Abdul Hadi — Data Enthusiast Based in France 🇫🇷
 
