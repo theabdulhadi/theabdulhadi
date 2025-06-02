@@ -1,4 +1,4 @@
------------------- English below --------------------
+*---------------- English below -----------------*
 # Bonjour 👋 Je suis Abdul Hadi — Passionné de données basé en France 🇫🇷
 
 Je suis animé par l'utilisation des insights tirés des données pour favoriser la croissance et l'efficacité des entreprises ! 😊
@@ -22,8 +22,8 @@ Je suis un passionné de l'apprentissage automatique et de l'analyse de données
 ## Projets futurs 🚀
 
 - Présenter davantage de projets mettant en valeur mes compétences en analyse de données et en IA.
-- 
 
+  *------------------------ ENGLISH ------------------------*
 # Hi 👋 I'm Abdul Hadi — Data Enthusiast Based in France 🇫🇷
 
 Passionate about leveraging data-driven insights to drive business growth and efficiency! 😊
