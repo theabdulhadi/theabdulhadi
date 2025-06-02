@@ -1,4 +1,4 @@
-*---------------- English below -----------------*
+*------------------------------------- English below ----------------------------------------*
 # Bonjour 👋 Je suis Abdul Hadi — Passionné de données basé en France 🇫🇷
 
 Je suis animé par l'utilisation des insights tirés des données pour favoriser la croissance et l'efficacité des entreprises ! 😊
