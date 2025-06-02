@@ -1,4 +1,4 @@
-# Hi there, I'm Abdul Hadi 👋🏼
+# Hi 👋 I'm Abdul Hadi — based out of France 🇫🇷
 
 Passionate about leveraging data-driven insights to drive business growth and efficiency! 😊
 
